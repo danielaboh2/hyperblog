@@ -4,6 +4,10 @@ Soy Daniela Bohorquez, tengo 19 años (Aunque siempre me dicen que me veo menor 
 
 Master 1
 
+<<<<<<< HEAD
 Master 2
+=======
+Experimento 2 
+>>>>>>> Exp 2.0
 
 Después nos enfocarémos en mi vida laboral.
